@@ -59,5 +59,5 @@ and ticket data, effectively preparing me for future roles that require database
 -  Payment page
 
 ![Screenshot 2024-10-29 230156](https://github.com/user-attachments/assets/d288ebe0-9a94-4975-9aff-37d51deb7b69)
-- Receipt 
+- Receipt Page
 
