@@ -48,6 +48,7 @@ and ticket data, effectively preparing me for future roles that require database
 
 ![Screenshot 2024-10-29 225902](https://github.com/user-attachments/assets/3dc069ed-81f2-4fdb-9c64-c3753fdd026c)
 - Movie Information page
+
 ![Screenshot 2024-10-29 230132](https://github.com/user-attachments/assets/8c5c3ca2-a797-45c4-8001-8224c24f70c4)
 - Booking page
 
