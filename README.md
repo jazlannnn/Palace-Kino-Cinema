@@ -35,19 +35,19 @@ and ticket data, effectively preparing me for future roles that require database
 - Main Page
 
 ![Screenshot 2024-10-29 225814](https://github.com/user-attachments/assets/b4b0369a-e6c6-45f6-a341-9aae71fcc428)
-- Movie Information page
+- Movie Information page (MAT KILAU)
 
- ![Screenshot 2024-10-29 225822](https://github.com/user-attachments/assets/25d8c894-46a3-4506-984b-dfff77df8e56)
-- Movie Information page
+![Screenshot 2024-10-31 040514](https://github.com/user-attachments/assets/80f79837-4817-4292-aa3a-8816c1b96e35)
+- Movie Information page (MINIONS THE RISE OF GRU)
 
-![Screenshot 2024-10-29 225829](https://github.com/user-attachments/assets/db6aeec5-ca30-47ec-ba3a-b3cf0606c604)
-- Movie Information page
+![Screenshot 2024-10-31 040436](https://github.com/user-attachments/assets/4d34d671-64e9-4b07-92af-8b4bb2d331ba)
+- Movie Information page (BUBBLE)
 
-![Screenshot 2024-10-29 225839](https://github.com/user-attachments/assets/28747406-6b75-4ef8-ba32-d5e4a40134c6)
-- Movie Information page
+![Screenshot 2024-10-31 040544](https://github.com/user-attachments/assets/0b6943c1-d3bb-4329-88e5-d1a18d164abc)
+- Movie Information page (SONIC THE HEDGEHOG)
 
-![Screenshot 2024-10-29 225902](https://github.com/user-attachments/assets/3dc069ed-81f2-4fdb-9c64-c3753fdd026c)
-- Movie Information page
+![Screenshot 2024-10-31 040617](https://github.com/user-attachments/assets/be52d7e5-f8f6-4499-a07f-f4ef5f90873b)
+- Movie Information page (TOP GUN MAVERICK)
 
 ![Screenshot 2024-10-29 230132](https://github.com/user-attachments/assets/8c5c3ca2-a797-45c4-8001-8224c24f70c4)
 - Booking page
