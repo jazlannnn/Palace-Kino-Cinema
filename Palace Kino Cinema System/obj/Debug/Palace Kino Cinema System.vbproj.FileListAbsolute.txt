@@ -1,0 +1,74 @@
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\bin\Debug\PalceKinoSystemDb.mdf
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\bin\Debug\PalceKinoSystemDb_log.ldf
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.exe.config
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.exe
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.pdb
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.xml
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.Resources.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.exe
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.xml
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.pdb
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmBookingPage.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmBubble.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmLogin.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmMainPage.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmPaymentPage.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmRegister.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmSelectionSeat.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmMatKilau.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmMinion.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmSonic.resources
+C:\Users\USER\source\repos\Palace Kino Cinema System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmTopGun.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmBookingPage.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmBubble.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmLogin.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmMainPage.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmMatKilau.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmMinion.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmPaymentPage.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmRegister.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmSelectionSeat.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmSonic.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmTopGun.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.exe
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.xml
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.pdb
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.Resources.resources
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\bin\Debug\PalceKinoSystemDb.mdf
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\bin\Debug\PalceKinoSystemDb_log.ldf
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.exe.config
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.exe
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.pdb
+C:\Users\User\Desktop\Palace Kino\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.xml
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\bin\Debug\PalceKinoSystemDb.mdf
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\bin\Debug\PalceKinoSystemDb_log.ldf
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.exe.config
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.exe
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.pdb
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\bin\Debug\Palace Kino Cinema System.xml
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmBookingPage.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmBubble.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmLogin.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmMainPage.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmMatKilau.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmMinion.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmPaymentPage.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmRegister.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmSelectionSeat.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmSonic.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.frmTopGun.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace_Kino_Cinema_System.Resources.resources
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.exe
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.xml
+C:\Users\User\Documents\GitHub\Palace-Kino-Cinema-System\Palace Kino Cinema System\obj\Debug\Palace Kino Cinema System.pdb
