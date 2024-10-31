@@ -4,7 +4,7 @@ Project Oveview: In my 4th semester of Diploma, my team and I developed the Pala
 and customer data tracking for efficient cinema operations. Using VB.NET for logic, SQL Server for database management, and Windows Forms for an intuitive interface, the project was designed to improve customer experience, 
 support ticket pricing variations, and provide staff with a reliable system for handling bookings and customer records.
 
-Technologies Used: VB.NET, WinForms, Microsoft SQL Server, Visual Studio
+Technologies Used: VB.NET, WinForms, Microsoft SQL Server, Visual Studio, ADO.NET (System.Data.SqlClient)
 
 Key Features and Achievements
 
