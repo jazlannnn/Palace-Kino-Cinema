@@ -25,16 +25,16 @@ and ticket data, effectively preparing me for future roles that require database
 
 ## Screenshot of the system
 
-![Screenshot 2024-10-29 225747](https://github.com/user-attachments/assets/8f2d573b-1c02-4a21-8069-12d9b3e19983)
+![Screenshot 2024-10-31 184759](https://github.com/user-attachments/assets/7bd8683b-3d27-4bc1-8eda-5a2151acc394)
 - Login Page
 
-![Screenshot 2024-10-29 225759](https://github.com/user-attachments/assets/aa0357b2-261a-4d9e-ab9c-6ef20fd56340)
+![Screenshot 2024-10-31 184828](https://github.com/user-attachments/assets/d88f96fc-027c-4b4d-ad4d-49c6605d0a5e)
 - Register Page
 
-![Screenshot 2024-10-29 225807](https://github.com/user-attachments/assets/98321cc6-0cf1-4314-b064-c14c609f9d14)
+![Screenshot 2024-10-31 184850](https://github.com/user-attachments/assets/525c9609-1901-4caa-ab50-750d6fd6fe50)
 - Main Page
 
-![Screenshot 2024-10-29 225814](https://github.com/user-attachments/assets/b4b0369a-e6c6-45f6-a341-9aae71fcc428)
+![Screenshot 2024-10-31 184931](https://github.com/user-attachments/assets/63b75bb5-7383-40d2-8cbc-fecb29ad434f)
 - Movie Information page (MAT KILAU)
 
 ![Screenshot 2024-10-31 040514](https://github.com/user-attachments/assets/80f79837-4817-4292-aa3a-8816c1b96e35)
@@ -49,15 +49,15 @@ and ticket data, effectively preparing me for future roles that require database
 ![Screenshot 2024-10-31 040617](https://github.com/user-attachments/assets/be52d7e5-f8f6-4499-a07f-f4ef5f90873b)
 - Movie Information page (TOP GUN MAVERICK)
 
-![Screenshot 2024-10-29 230132](https://github.com/user-attachments/assets/8c5c3ca2-a797-45c4-8001-8224c24f70c4)
+![Screenshot 2024-10-31 185145](https://github.com/user-attachments/assets/f375649f-af47-41a9-b127-bdbd2d398a3a)
 - Booking page
 
-![Screenshot 2024-10-29 230140](https://github.com/user-attachments/assets/afb77b7c-ee1f-47e0-821f-c94348c2f135)
+![Screenshot 2024-10-31 185226](https://github.com/user-attachments/assets/48e3d4d2-3cc4-4c09-a61c-e055ae81c3f4)
 - Seat selection page
 
-![Screenshot 2024-10-29 230147](https://github.com/user-attachments/assets/c1682d84-8512-4623-b801-282b52d8ba8f)
+![Screenshot 2024-10-31 185251](https://github.com/user-attachments/assets/117bb3b6-377a-4923-be55-5dbf1c3aa9a3)
 -  Payment page
 
-![Screenshot 2024-10-29 230156](https://github.com/user-attachments/assets/d288ebe0-9a94-4975-9aff-37d51deb7b69)
+![Screenshot 2024-10-31 185318](https://github.com/user-attachments/assets/c63c2a43-e27c-4847-8d08-f2ed761a06fa)
 - Receipt Page
 
