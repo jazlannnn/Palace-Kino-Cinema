@@ -1,4 +1,4 @@
-# Palace Kino Cinema System
+# Palace Kino Cinema System Application
 
 Project Oveview: In my 4th semester of Diploma, my team and I developed the Palace Kino Cinema System, a desktop application for a cinema booking and management system. The goal was to streamline ticket bookings, showtime management, 
 and customer data tracking for efficient cinema operations. Using VB.NET for logic, SQL Server for database management, and Windows Forms for an intuitive interface, the project was designed to improve customer experience, 
